@@ -2,7 +2,7 @@
 $mahasiswa = [
     [
         "nim" => "20510022",
-        "nama1" => "M Rafi Wahyu Pradhana","nama2" => "Yoga Mauludin Prasetio","nama3" => "Uriyanti Rinda Sari", "nama4" => "I Gusti Bagus Agung Alif Indra Wardhana", "nama5" => "Muh Fauzan Mirfaqoh",
+        "nama1" => "M Rafi Wahyu Pradhana","nama2" => "Yoga Mauludin Prasetio","nama3" => "Uriyanti Rinda Sari", "nama4" => "I Gusti Bagus Agung Alif Indra Wardhana", "nama5" => "Muh Fauzan Mirfaqoh", "nama6" => "Moh Afandy",
         "jurusan" => "Sistem Informasi",
         "email" => "muhammad_20510022@stimata.ac.id",
         "gambar" => "me2.jpg"
@@ -26,6 +26,7 @@ $mahasiswa = [
         <li><a href="rinda.php"><?= $ahs["nama3"]; ?></a></li>
         <li><a href="indra.php"><?= $ahs["nama4"]; ?></a></li>
         <li><a href="fauzan.php"><?= $ahs["nama5"]; ?></a></li>
+        <li><a href="afandy.php"><?= $ahs["nama6"]; ?></a></li>
     </ul>
 </body>
 </html>
