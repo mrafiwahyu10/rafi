@@ -11,8 +11,8 @@
 <body>
     <ul>
         <li><img src="img/rafi.jpg" height="100" width="85"></li>
-        <li>Yoga Mauludin Prasetio</li>
-        <li>20510028</li>
+        <li>Muh Fauzan Mirfaqoh</li>
+        <li>20510026</li>
         <li>Sistem Informasi</li>
     </ul>
 

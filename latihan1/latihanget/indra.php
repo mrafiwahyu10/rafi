@@ -11,8 +11,8 @@
 <body>
     <ul>
         <li><img src="img/rafi.jpg" height="100" width="85"></li>
-        <li>Yoga Mauludin Prasetio</li>
-        <li>20510028</li>
+        <li>I Gusti Bagus Agung Alif Indra Wardhana</li>
+        <li>20510023</li>
         <li>Sistem Informasi</li>
     </ul>
 

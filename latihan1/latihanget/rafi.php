@@ -13,7 +13,6 @@
         <li><img src="img/rafi.jpg" height="100" width="85"></li>
         <li>M Rafi Wahyu Pradhana</li>
         <li>20510022</li>
-        <li>muhammad_20510022@stimata.ac.id</li>
         <li>Sistem Informasi</li>
     </ul>
 

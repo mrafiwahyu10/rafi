@@ -11,9 +11,8 @@
 <body>
     <ul>
         <li><img src="img/rafi.jpg" height="100" width="85"></li>
-        <li>rinda</li>
-        <li>20510022</li>
-        <li>muhammad_20510022@stimata.ac.id</li>
+        <li>Uriyanti Rinda Sari</li>
+        <li>20510027</li>
         <li>Sistem Informasi</li>
     </ul>
 
