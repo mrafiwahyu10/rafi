@@ -10,7 +10,7 @@
 
 <body>
     <ul>
-        <li><img src="img/rafi.jpg" height="100" width="85"></li>
+        <li><img src="img/fauzan.png" height="110" width="90"></li>
         <li>Muh Fauzan Mirfaqoh</li>
         <li>20510026</li>
         <li>Sistem Informasi</li>

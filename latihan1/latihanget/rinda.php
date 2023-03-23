@@ -10,7 +10,7 @@
 
 <body>
     <ul>
-        <li><img src="img/rafi.jpg" height="100" width="85"></li>
+        <li><img src="img/rinda.png" height="110" width="90"></li>
         <li>Uriyanti Rinda Sari</li>
         <li>20510027</li>
         <li>Sistem Informasi</li>

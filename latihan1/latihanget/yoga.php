@@ -10,7 +10,7 @@
 
 <body>
     <ul>
-        <li><img src="img/rafi.jpg" height="100" width="85"></li>
+        <li><img src="img/yoga.png" height="110" width="90"></li>
         <li>Yoga Mauludin Prasetio</li>
         <li>20510028</li>
         <li>Sistem Informasi</li>

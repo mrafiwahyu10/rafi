@@ -10,7 +10,7 @@
 
 <body>
     <ul>
-        <li><img src="img/rafi.jpg" height="100" width="85"></li>
+        <li><img src="img/rafi.png" height="110" width="90"></li>
         <li>M Rafi Wahyu Pradhana</li>
         <li>20510022</li>
         <li>Sistem Informasi</li>

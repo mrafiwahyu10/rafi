@@ -10,7 +10,7 @@
 
 <body>
     <ul>
-        <li><img src="img/rafi.jpg" height="100" width="85"></li>
+        <li><img src="img/afandy.png" height="110" width="90"></li>
         <li>Moh Afandy</li>
         <li>20510025</li>
         <li>Sistem Informasi</li>

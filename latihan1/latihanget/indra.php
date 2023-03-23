@@ -10,7 +10,7 @@
 
 <body>
     <ul>
-        <li><img src="img/rafi.jpg" height="100" width="85"></li>
+        <li><img src="img/gusti.png" height="110" width="90"></li>
         <li>I Gusti Bagus Agung Alif Indra Wardhana</li>
         <li>20510023</li>
         <li>Sistem Informasi</li>
