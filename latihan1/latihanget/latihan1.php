@@ -2,7 +2,7 @@
 $mahasiswa = [
     [
         "nim" => "20510022",
-        "nama" => "M Rafi Wahyu Pradhana",
+        "nama1" => "M Rafi Wahyu Pradhana","nama2" => "Yoga","nama3" => "Rinda",
         "jurusan" => "Sistem Informasi",
         "email" => "muhammad_20510022@stimata.ac.id",
         "gambar" => "me2.jpg"
@@ -21,9 +21,9 @@ $mahasiswa = [
     <h1>Daftar Mahasiswa</h1>
     <ul>
         <?php foreach ($mahasiswa as $ahs); ?>
-        <li>
-            <a href="latihan2.php"><?= $ahs["nama"]; ?></a>
-        </li>
+        <li><a href="rafi.php"><?= $ahs["nama1"]; ?></a></li>
+        <li><a href="yoga.php"><?= $ahs["nama2"]; ?></a></li>
+        <li><a href="rinda.php"><?= $ahs["nama3"]; ?></a></li>
     </ul>
 </body>
 </html>
