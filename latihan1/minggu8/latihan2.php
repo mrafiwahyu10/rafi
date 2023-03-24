@@ -28,17 +28,18 @@
 </head>
 
 <body>
-    <?php $angka = [
-        [1, 2, 3,],
-        [4, 5, 6,],
+    <?php 
+    $angka = [
+        [1, 2, 3],
+        [4, 5, 6],
         [7, 8, 9]
     ];
     ?>
     <?php foreach ($angka as $a) : ?>
-        <?php foreach($a as $b): ?>
+    <?php foreach($a as $b) : ?>
     <div class="kotak"><?= $b; ?></div>
     <?php endforeach; ?>
-    <div.clear"clear"></div>
+    <div class="clear"></div>
     <?php endforeach; ?>
 </body>
 
