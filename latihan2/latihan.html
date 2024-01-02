@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form 1</title>
+</head>
+<body>
+    <form method="get" action=""></form>
+    <label for="login">Login</label>
+    <label for="cars">Jenis Mobil</label>
+    <select id="cars" name="mobil" size="multiple">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="fiat">Fiat</option>
+        <option value="audi">Audi</option>
+    </select>
+    <textarea name="message" row="111" cols="80">
+        The car was playing in the garden
+    </textarea>
+    <button type="button" onclick="alert('Hello World!')">Click Me!</button>
+    <fieldset>
+        <legend>Personalia</legend>
+        <label for="frame">First name</label>
+        <input type="text" id="frame" name="frame" value=""><br>
+        <label for="name">Last name</label><br>
+        <input type="text" id="frame" name="frame" value=""><br>
+        <input type="submit" value="Submit">
+    </fieldset>
+    <input list="browser">
+    <datalist id="browsers">
+        <option value="Edge">
+        <option value="Firefox">
+        <option value="Chrome">
+        <option value="Opera">
+        <option value="Safari">
+    </datalist>
+</body>
+</html>
